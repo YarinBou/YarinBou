@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [colorVision](https://github.com/YarinBou/colorVision)
 
-- 📫 How to reach me **yarinbouzaglo1@gmail.com**
+- 📫 How to reach me **yarinbozaglo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

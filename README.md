@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying **Computer Science BSc**
 
-- 👯 I’m looking to collaborate on **AR/VR/ML/FULL-STACK**
+- 👯 I’m looking to collaborate on **AR/ML/AI**
 
 - 🤝 I’m looking for help with [colorVision](https://github.com/YarinBou/colorVision)
 

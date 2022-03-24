@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yarin Michael Bouzaglo</h1>
 <h3 align="center">A passionate Software developer from Israel</h3>
 
-- 🔭 I’m currently working on [ReliveAR](https://reliveweb-1962b.web.app/)
+<!-- - 🔭 I’m currently working on [ReliveAR](https://reliveweb-1962b.web.app/) -->
 
 - 🌱 I’m currently studying **Computer Science BSc**
 
-- 👯 I’m looking to collaborate on **AR/ML/AI**
+<!-- - 👯 I’m looking to collaborate on **AR/ML/AI** -->
 
-- 🤝 I’m looking for help with [colorVision](https://github.com/YarinBou/colorVision)
+<!-- - 🤝 I’m looking for help with [colorVision](https://github.com/YarinBou/colorVision) -->
 
 - 📫 How to reach me **yarinbozaglo@gmail.com**
 

@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [ReliveAR](https://reliveweb-1962b.web.app/) -->
 
-- 🌱 I’m currently studying **Computer Science BSc**
+- 🌱 I’m currently **Final-Year B.Sc. Computer Science student At Reichman University (IDC Herzliya)**
 
 <!-- - 👯 I’m looking to collaborate on **AR/ML/AI** -->
 

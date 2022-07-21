@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on JPMorgan.
 
-- 🌱 I’m currently **Final-Year B.Sc. Computer Science student At Reichman University **
+- 🌱 I’m currently Final-Year B.Sc. Computer Science student At Reichman University.
 
 <!-- - 👯 I’m looking to collaborate on **AR/ML/AI** -->
 

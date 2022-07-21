@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yarin Michael Bouzaglo</h1>
 <h3 align="center">A passionate Software developer from Israel</h3>
 
-<!-- - 🔭 I’m currently working on [ReliveAR](https://reliveweb-1962b.web.app/) -->
+<!-- - 🔭 I’m currently working on JPMorfgan -->
 
-- 🌱 I’m currently **Final-Year B.Sc. Computer Science student At Reichman University (IDC Herzliya)**
+- 🌱 I’m currently **Final-Year B.Sc. Computer Science student At Reichman University **
 
 <!-- - 👯 I’m looking to collaborate on **AR/ML/AI** -->
 

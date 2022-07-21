@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yarin Michael Bouzaglo</h1>
+<h1 align="center">Hey there! I'm using Github! 👋</h1>
 <h3 align="center">A passionate Software developer from Israel</h3>
 
-<!-- - 🔭 I’m currently working on JPMorfgan -->
+- 🔭 I’m currently working on JPMorgan.
 
 - 🌱 I’m currently **Final-Year B.Sc. Computer Science student At Reichman University **
 

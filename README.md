@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at JPMorgan.
 
-- 🌱 I’m currently pursuing my master's degree (M.Sc.) in Computer Science student At Reichman University.
+- 🌱 I’m currently pursuing my masters degree (M.Sc.) in Computer Science student At Reichman University.
 
 <!-- - 👯 I’m looking to collaborate on **AR/ML/AI** -->
 
